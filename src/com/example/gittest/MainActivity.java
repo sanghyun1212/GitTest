@@ -27,6 +27,7 @@ public class MainActivity extends Activity {
 		initView(2);
 
 	
+		slefjwoeijfoweijfowejf
 	}
 	
 	public void initView() {
