@@ -22,8 +22,14 @@ public class MainActivity extends Activity {
 			getFragmentManager().beginTransaction()
 					.add(R.id.container, new PlaceholderFragment()).commit();
 		}
+		
+		initView();
 	}
-
+	
+	public void initView() {
+		
+	}
+	
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
 
