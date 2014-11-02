@@ -23,7 +23,10 @@ public class MainActivity extends Activity {
 					.add(R.id.container, new PlaceholderFragment()).commit();
 		}
 		
+
 		initView(2);
+
+	
 	}
 	
 	public void initView() {
